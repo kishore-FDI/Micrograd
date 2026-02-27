@@ -5,11 +5,9 @@ Minimal micrograd-style autograd engine + neural network library with Graphviz v
 
 ## Structure
 ```
-
 engine.py   # Value class, autograd, graph tracing, draw_dot()
 nn.py       # Neuron, Layer, MLP
 demo.py     # scalar tests, activations, NN, XOR training
-
 ````
 
 ## Install
