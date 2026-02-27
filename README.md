@@ -35,7 +35,7 @@ sudo apt install graphviz
 ## Run demo
 
 ```bash
-python demo.py
+python demo.ipynb
 ```
 
 ## Jupyter visualization
@@ -70,6 +70,3 @@ Educational reference implementation of:
 * Backpropagation
 * Minimal neural networks
 * Symbolic graph visualization
-
-```
-```
