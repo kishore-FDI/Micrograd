@@ -1,4 +1,4 @@
-```markdown
+
 # MicroGrad-NN
 
 Minimal micrograd-style autograd engine + neural network library with Graphviz visualization.
